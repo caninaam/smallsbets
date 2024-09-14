@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "590934246644",
+    "project_id": "smallbet-f46a5",
+    "storage_bucket": "smallbet-f46a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590934246644:android:84a141b9ad7ef85f0e0aa1",
+        "android_client_info": {
+          "package_name": "com.example.smallsbets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590934246644-65bneh17hhb5db9ue90h275vo17j0boj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgkN9jiM8Rs7NtEnpyHNMXtvJ0NQvUDB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590934246644-65bneh17hhb5db9ue90h275vo17j0boj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590934246644-4a47dlqc94f3lf4dmbtul5nh3487ffm8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smallbets"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590934246644:android:166c53acc566bb370e0aa1",
+        "android_client_info": {
+          "package_name": "com.sm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590934246644-65bneh17hhb5db9ue90h275vo17j0boj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgkN9jiM8Rs7NtEnpyHNMXtvJ0NQvUDB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590934246644-65bneh17hhb5db9ue90h275vo17j0boj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590934246644-4a47dlqc94f3lf4dmbtul5nh3487ffm8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smallbets"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590934246644:android:e304110d045685e40e0aa1",
+        "android_client_info": {
+          "package_name": "com.smallbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590934246644-65bneh17hhb5db9ue90h275vo17j0boj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgkN9jiM8Rs7NtEnpyHNMXtvJ0NQvUDB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590934246644-65bneh17hhb5db9ue90h275vo17j0boj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590934246644-4a47dlqc94f3lf4dmbtul5nh3487ffm8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smallbets"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

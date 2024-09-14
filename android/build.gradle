@@ -1,0 +1,44 @@
+buildscript {
+    repositories {
+        google()  // Google's Maven repository
+        mavenCentral()  // Central repository for many libraries
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.2.2'
+        classpath 'com.google.gms:google-services:4.4.2'
+        classpath 'com.google.code.gson:gson:2.10.1'// Google Services classpath
+        // Add other dependencies if needed
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+
+rootProject.buildDir = "../build"
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+subprojects {
+    project.evaluationDependsOn(":app")
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}
+buildscript {
+    repositories {
+        // Add this
+        google()
+    }
+    dependencies {
+        // Add this
+        classpath 'com.google.gms:google-services:4.4.2'
+
+
+    }
+}
